@@ -1,1 +1,0 @@
-repository for machine learning projects and python projects
